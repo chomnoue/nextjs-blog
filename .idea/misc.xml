@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PDMPlugin">
+    <option name="skipTestSources" value="false" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Programming_Reactive_Systems/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Programming_Reactive_Systems/followers" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Programming_Reactive_Systems/protocols" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Programming_Reactive_Systems/streaming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../projects/bet_with_friends/code/bet-with-friends-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../projects/lagom/helloworld" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
